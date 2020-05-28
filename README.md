@@ -30,13 +30,12 @@
 
     1_float.c 浮点
 
-    2_base.c 进程
+    2_base.c 进制
 
 
 linear_list：线性表
 
     linked.c ：链表
-
 
     order.c：有序表
 
