@@ -1,37 +1,49 @@
+ * @Author: cpu_code
+ * @Date: 2020-05-02 18:31:22
+ * @LastEditTime: 2020-05-20 18:44:02
+ * @FilePath: \c_course\README.md
+ * @Gitee: https://gitee.com/cpu_code
+ * @CSDN: https://blog.csdn.net/qq_44226094
+
 # c_course
 
-#### 介绍
+## 介绍
 个人学习C代码
 
-#### 软件架构
-软件架构说明
+## 编译环境
+
+## 文件说明
+
+1_first_c: 初次接触语言
+
+    1_printf.c: 输出信息
+
+    2_num.c: 定义变量
+
+    3_scanf.c: 输入变量
+
+    4_multiply.c: 乘法
+
+    5_fun.c: 函数调用
+
+2_num: 变量
+
+    1_float.c 浮点
+
+    2_base.c 进程
 
 
-#### 安装教程
+linear_list：线性表
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+    linked.c ：链表
 
 
-#### 码云特技
+    order.c：有序表
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 计划
+
+    C语言所有语法
+
+    数据结构
+
+    算法
