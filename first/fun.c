@@ -1,8 +1,8 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-05-28 16:13:05
- * @LastEditTime: 2020-05-28 16:16:17
- * @FilePath: \c_course\1_first_c\5_fun.c
+ * @LastEditTime: 2020-06-15 14:19:20
+ * @FilePath: \c_course\first\fun.c
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
  */ 
@@ -22,7 +22,7 @@ int main(void)
     return 0;
 }
 
-void fun(void)      
+void fun(void)      /* 函数定义开始 */
 {
     printf("function \n");
 }
