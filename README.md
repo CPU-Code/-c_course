@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-15 18:52:00
+ * @LastEditTime: 2020-06-15 19:43:30
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -53,6 +53,8 @@
 * [wigth.c: 字段宽度](string/wigth.c)
 * [floats.c: 控制输出格式](string/floats.c)
 * [flats.c: 打印不同大小的值](string/flats.c)
+* [stringf.c: 字符串格式](string/stringf.c)
+* [intconv.c: 不匹配的整型转换](string/intconv.c)
 
 
 ### [contact_project: 联系人的微系统](contact_project)
