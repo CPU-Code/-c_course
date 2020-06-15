@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-15 20:14:27
+ * @LastEditTime: 2020-06-15 20:24:27
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -57,7 +57,8 @@
 * [intconv.c: 不匹配的整型转换](string/intconv.c)
 * [floatcnv.c: 不匹配的浮点型转换](string/floatcnv.c)
 * [prntval.c: printf()的返回值](string/prntval.c)
-
+* [longstrg.c: 打印较长的字符串](string/longstrg.c)
+* [input.c: 输入使用&](string/input.c)
 
 ### [contact_project: 联系人的微系统](contact_project)
 
