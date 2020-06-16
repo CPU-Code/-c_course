@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 15:27:51
+ * @LastEditTime: 2020-06-16 15:39:24
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -74,7 +74,7 @@
 * [sizeof.c: 类型大小](operation/sizeof.c)
 * [min_sec.c: 取余](operation/min_sec.c)
 * [add_one.c: 自增](operation/add_one.c)
-
+* [post_pre.c: 自增前后区别](operation/post_pre.c)
 
 
 
