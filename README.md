@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-15 20:59:42
+ * @LastEditTime: 2020-06-16 09:16:01
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -60,7 +60,7 @@
 * [longstrg.c: 打印较长的字符串](string/longstrg.c)
 * [input.c: 输入使用&](string/input.c)
 * [varwid.c: 变宽输出字段](string/varwid.c)
-
+* [skip.c: 跳过输入中的前两个整数](string/skip.c)
 
 ### [contact_project: 联系人的微系统](contact_project)
 
