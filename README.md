@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 22:26:56
+ * @LastEditTime: 2020-06-16 22:46:12
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -91,7 +91,7 @@
 * [when.c: while的退出条件](loop/when.c)
 * [while.c: while下的范围](loop/while.c)
 * [while_semicolon.c: while后的;](loop/while_semicolon.c)
-
+* [cmpflt.c: 浮点数比较](loop/cmpflt.c)
 
 ### [contact_project: 联系人的微系统](contact_project)
 
