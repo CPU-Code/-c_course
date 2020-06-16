@@ -1,7 +1,7 @@
 /*
  * @Author: cpu_code
  * @Date: 2020-05-20 19:59:22
- * @LastEditTime: 2020-05-20 22:25:03
+ * @LastEditTime: 2020-06-16 18:11:57
  * @FilePath: \c_course\linear_list\linked.c
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -31,7 +31,7 @@ typedef int ElemType;
 typedef struct Node
 {
     ElemType data;      // 数据域
-    struct Node* Next;  // 指针域
+    struct Node* next;  // 指针域
 } Node;
 
 typedef struct Node* LinkList;
