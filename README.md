@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 15:21:48
+ * @LastEditTime: 2020-06-16 15:25:07
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -72,7 +72,7 @@
 * [divide.c: 除法](operation/divide.c)
 * [rules.c: 优先级](operation/rules.c)
 * [sizeof.c: 类型大小](operation/sizeof.c)
-
+* [min_sec.c: 取余](operation/min_sec.c)
 
 
 
