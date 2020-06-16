@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 20:32:29
+ * @LastEditTime: 2020-06-16 20:51:19
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -82,6 +82,12 @@
 * [convert.c: 自动类型转换](operation/convert.c)
 * [pound.c: 参数的函数](operation/pound.c)
 * [running.c: 强制类型转换](operation/running.c)
+
+
+### [loop: 循环](loop)
+
+* [summing.c: 求所有和](operation/summing.c)
+
 
 
 ### [contact_project: 联系人的微系统](contact_project)
