@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 15:10:30
+ * @LastEditTime: 2020-06-16 15:15:10
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -69,6 +69,14 @@
 * [goif.c: 输出并行](operation/goif.c)
 * [squares.c: 平方](operation/squares.c)
 * [wheat.c: 指数输出](operation/wheat.c)
+* [divide.c: 除法](operation/divide.c)
+
+
+
+
+
+
+
 
 ### [contact_project: 联系人的微系统](contact_project)
 
