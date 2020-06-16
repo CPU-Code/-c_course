@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 10:05:48
+ * @LastEditTime: 2020-06-16 10:32:19
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -65,7 +65,7 @@
 ### [operation: 运算符](operation)
 
 * [choes.c: #define、const](operation/choes.c)
-
+* [choes_while.c: while循环](operation/choes_while.c)
 
 ### [contact_project: 联系人的微系统](contact_project)
 
