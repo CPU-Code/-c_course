@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 15:45:42
+ * @LastEditTime: 2020-06-16 18:08:21
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -76,7 +76,7 @@
 * [add_one.c: 自增](operation/add_one.c)
 * [post_pre.c: 自增前后区别](operation/post_pre.c)
 * [bottles.c: 自增的有效位](operation/bottles.c)
-
+* [addemup.c: 迭代增加](operation/addemup.c)
 
 ### [contact_project: 联系人的微系统](contact_project)
 
