@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 20:54:19
+ * @LastEditTime: 2020-06-16 21:02:49
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -88,7 +88,7 @@
 
 * [summing.c: 求所有和](loop/summing.c)
 * [when.c: while的退出条件](loop/when.c)
-
+* [while.c: while下的范围](loop/while.c)
 
 
 ### [contact_project: 联系人的微系统](contact_project)
