@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-16 20:51:19
+ * @LastEditTime: 2020-06-16 20:54:19
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -86,7 +86,8 @@
 
 ### [loop: 循环](loop)
 
-* [summing.c: 求所有和](operation/summing.c)
+* [summing.c: 求所有和](loop/summing.c)
+* [when.c: while的退出条件](loop/when.c)
 
 
 
