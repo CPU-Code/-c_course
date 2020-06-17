@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-17 15:00:38
+ * @LastEditTime: 2020-06-17 15:05:53
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -93,6 +93,7 @@
 * [cmpflt.c: 浮点数比较](loop/cmpflt.c)
 * [t_and_f.c: C中的真和假的值](loop/t_and_f.c)
 * [truth.c: 哪些值为真](loop/truth.c)
+* [trouble.c: 误用=会导致无限循环](loop/trouble.c)
 
 
 ### [branch: 分支](branch)
