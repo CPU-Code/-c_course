@@ -1,7 +1,7 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-17 19:05:26
+ * @LastEditTime: 2020-06-17 19:12:03
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
@@ -95,6 +95,9 @@
 * [truth.c: 哪些值为真](loop/truth.c)
 * [trouble.c: 误用=会导致无限循环](loop/trouble.c)
 * [boolean.c: _Bool类型的变量 variable](loop/boolean.c)
+* [sweetie.c: 计数循环](loop/sweetie.c)
+
+
 
 ### [branch: 分支](branch)
 
