@@ -1,20 +1,20 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-17 19:20:16
+ * @LastEditTime: 2020-07-12 12:45:06
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
 --> 
 
+# c_course
+
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-06-17 09:12:53
+ * @LastEditTime: 2020-07-12 12:36:50
  * @FilePath: \c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
-
-# c_course
 
 ## 介绍
 个人学习C代码，关键字、变量、常量、转义字符、字符串、运算符、循环、分支、跳转、输入输出、函数、数组、指针、存储类型、文件输入输出、结构体、位操作、预处理、链表、队列、二叉树
@@ -22,7 +22,22 @@
 
 ## 文件说明
 
-### [first: 初次接触语言](first)
+* [first__初次接触语言](#first__初次接触语言)
+* [num:num__变量](#num__变量)
+* [string__字符串](#string__字符串)
+* [operation__运算符](#operation__运算符)
+* [loop__循环](#loop__循环)
+* [branch__分支](#branch__分支)
+* [input_out__输入输出](#input_out__输入输出)
+* [初次接触语言](#first)
+* [初次接触语言](#first)
+* [contact_project__联系人的微系统](#contact_project__联系人的微系统)
+* [linear_list__线性表](#linear_list__线性表)
+* [linked_list__线性表](#linked_list__线性表)
+
+--------------
+
+## [first__初次接触语言](first)
 
 * [printf.c: 输出信息](first/printf.c)
 * [num.c: 定义变量](first/num.c)
@@ -32,8 +47,9 @@
 * [nogood.c: 错误程序](first/nogood.c)
 * [fun.c: 函数调用](first/fun.c)
 
+------------------
 
-### [num: 变量](num)
+## [num__变量](num)
 
 * [platinum.c: 浮点数、输入](num/platinum.c)
 * [float.c: 浮点](num/float.c)
@@ -42,8 +58,9 @@
 * [pri_type.c: 进制](num/pri_type.c)
 * [type_lib.c: 进制](num/type_lib.c)
 
+------------------
 
-### [string: 字符串](string)
+## [string__字符串](string)
 
 * [talkback.c: 获取字符串的长度](string/talkback.c)
 * [praise.c: 宏定义字符串](string/praise.c)
@@ -63,8 +80,9 @@
 * [varwid.c: 变宽输出字段](string/varwid.c)
 * [skip.c: 跳过输入中的前两个整数](string/skip.c)
 
+---------------------------
 
-### [operation: 运算符](operation)
+## [operation__运算符](operation)
 
 * [choes.c: #define、const](operation/choes.c)
 * [choes_while.c: while循环](operation/choes_while.c)
@@ -83,8 +101,9 @@
 * [pound.c: 参数的函数](operation/pound.c)
 * [running.c: 强制类型转换](operation/running.c)
 
+-------------------------
 
-### [loop: 循环](loop)
+## [loop__循环](loop)
 
 * [summing.c: 求所有和](loop/summing.c)
 * [when.c: while的退出条件](loop/when.c)
@@ -99,61 +118,70 @@
 * [sweetie_for.c: for计数](loop/sweetie_for.c)
 * [for_cube.c: for创立方表](loop/for_cube.c)
 
+----------------------
 
+## [branch__分支](branch)
 
+----------------------
 
+## [input_out__输入输出](input_out)
 
-### [branch: 分支](branch)
+------------------
 
+## [branch__函数](branch)
 
+-------------------
 
-### [input_out: 输入输出](input_out)
+## [branch__数组指针](branch)
 
+----------------------
 
+## [branch__字符串](branch)
 
-### [branch: 函数](branch)
+------------------
 
+## [branch__存储](branch)
 
+--------------------
 
-### [branch: 数组指针](branch)
+## [branch__文件输入输出](branch)
 
+------------------
 
+## [branch__结构体](branch)
 
-### [branch: 字符串](branch)
+------------------------
 
+## [branch__位操作](branch)
 
+------------------
 
-### [branch: 存储](branch)
+## [branch__预编译](branch)
 
+--------------------
 
+## [branch__数据结构](branch)
 
-### [branch: 文件输入输出](branch)
+-----------------
 
-
-
-### [branch: 结构体](branch)
-
-
-
-### [branch: 位操作](branch)
-
-
-
-### [branch: 预编译](branch)
-
-
-
-### [branch: 数据结构](branch)
-
-
-
-### [contact_project: 联系人的微系统](contact_project)
+## [contact_project__联系人的微系统](contact_project)
 
 * [main.c: 联系人的小项目](contact_project/main.c)
 
+-----------------------
 
-### [linear_list：线性表](linear_list)
+## [linear_list__线性表](linear_list)
 
 * [linked.c：链表](linear_list/linked.c)
 * [order.c：有序表](linear_list/order.c)
+* [dynamic_alloc__动态分配空间](linear_list/dynamic_alloc.c)
+* [dynamic_chain__动态链表](linear_list/dynamic_chain.c)
+* [sequent_list__顺序表](linear_list/sequent_list.c)
+* [mul_array__数组指针](linear_list/mul_array.c)
+
+---------------------
+
+## [linked_list__线性表](linked_list)
+
+* [init_one_list__链表建立](linked_list/init_one_list.c)
 
