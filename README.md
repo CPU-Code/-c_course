@@ -1,8 +1,8 @@
 <!--
  * @Author: cpu_code
  * @Date: 2020-05-02 18:31:22
- * @LastEditTime: 2020-07-12 12:45:06
- * @FilePath: \c_course\README.md
+ * @LastEditTime: 2020-07-26 16:17:52
+ * @FilePath: \-c_course\README.md
  * @Gitee: https://gitee.com/cpu_code
  * @CSDN: https://blog.csdn.net/qq_44226094
 --> 
@@ -185,3 +185,12 @@
 
 * [init_one_list__链表建立](linked_list/init_one_list.c)
 
+--------------------
+
+## [sequence__排序](sequence)
+
+* [bubbling__冒泡排序](linksequenceed_list/bubbling.c)
+* [choice__选择排序](linksequenceed_list/choice.c)
+* [rapid__快速排序](linksequenceed_list/rapid.c)
+* [insert__插入排序](linksequenceed_list/insert.c)
+* [shell__shell排序](linksequenceed_list/shell.c)
